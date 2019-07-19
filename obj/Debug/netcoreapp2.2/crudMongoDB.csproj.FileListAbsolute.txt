@@ -1,0 +1,14 @@
+C:\Projetos\crudMongoDB\bin\Debug\netcoreapp2.2\crudMongoDB.deps.json
+C:\Projetos\crudMongoDB\bin\Debug\netcoreapp2.2\crudMongoDB.runtimeconfig.json
+C:\Projetos\crudMongoDB\bin\Debug\netcoreapp2.2\crudMongoDB.runtimeconfig.dev.json
+C:\Projetos\crudMongoDB\bin\Debug\netcoreapp2.2\crudMongoDB.dll
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.csprojAssemblyReference.cache
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.csproj.CoreCompileInputs.cache
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.RazorAssemblyInfo.cache
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.RazorAssemblyInfo.cs
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.AssemblyInfoInputs.cache
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.AssemblyInfo.cs
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.RazorTargetAssemblyInfo.cache
+C:\Projetos\crudMongoDB\bin\Debug\netcoreapp2.2\crudMongoDB.pdb
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.dll
+C:\Projetos\crudMongoDB\obj\Debug\netcoreapp2.2\crudMongoDB.pdb
